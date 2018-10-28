@@ -111,3 +111,15 @@ a {
   color: #42b983;
 }
 </style>
+
+<style>
+
+body {
+  margin: 0px;
+};
+
+* {
+  box-sizing: border-box;
+};
+
+</style>
